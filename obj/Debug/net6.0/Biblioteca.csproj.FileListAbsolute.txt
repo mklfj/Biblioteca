@@ -1,0 +1,15 @@
+C:\Users\Mikael\Desktop\Cadastro Serie\Biblioteca\bin\Debug\net6.0\Biblioteca.exe
+C:\Users\Mikael\Desktop\Cadastro Serie\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+C:\Users\Mikael\Desktop\Cadastro Serie\Biblioteca\bin\Debug\net6.0\Biblioteca.runtimeconfig.json
+C:\Users\Mikael\Desktop\Cadastro Serie\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+C:\Users\Mikael\Desktop\Cadastro Serie\Biblioteca\bin\Debug\net6.0\ref\Biblioteca.dll
+C:\Users\Mikael\Desktop\Cadastro Serie\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+C:\Users\Mikael\Desktop\Cadastro Serie\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Mikael\Desktop\Cadastro Serie\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikael\Desktop\Cadastro Serie\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Mikael\Desktop\Cadastro Serie\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Mikael\Desktop\Cadastro Serie\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Mikael\Desktop\Cadastro Serie\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+C:\Users\Mikael\Desktop\Cadastro Serie\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
+C:\Users\Mikael\Desktop\Cadastro Serie\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+C:\Users\Mikael\Desktop\Cadastro Serie\Biblioteca\obj\Debug\net6.0\Biblioteca.genruntimeconfig.cache
