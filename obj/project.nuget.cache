@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eDzOyiICZT51oruucvoFWIoNmEWnFScXAItKN+01HuBdi5llJe972fgHPv1BY8/N+XTG1ckIpDEH2TINBWUrPQ==",
+  "dgSpecHash": "sciKjNlu3VM6E8mLQlqAxKPaeTMKkVgCkjqS3zBNMHeq0/1wC4GOvP8UbLLan0qcnrZqAu4DaAmbVHYStY0wrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mikael\\Desktop\\Cadastro Serie\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "C:\\workspace\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,3 +13,18 @@ C:\Users\Mikael\Desktop\Cadastro Serie\Biblioteca\obj\Debug\net6.0\Biblioteca.dl
 C:\Users\Mikael\Desktop\Cadastro Serie\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
 C:\Users\Mikael\Desktop\Cadastro Serie\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
 C:\Users\Mikael\Desktop\Cadastro Serie\Biblioteca\obj\Debug\net6.0\Biblioteca.genruntimeconfig.cache
+C:\workspace\Biblioteca\bin\Debug\net6.0\Biblioteca.exe
+C:\workspace\Biblioteca\bin\Debug\net6.0\Biblioteca.deps.json
+C:\workspace\Biblioteca\bin\Debug\net6.0\Biblioteca.runtimeconfig.json
+C:\workspace\Biblioteca\bin\Debug\net6.0\Biblioteca.dll
+C:\workspace\Biblioteca\bin\Debug\net6.0\ref\Biblioteca.dll
+C:\workspace\Biblioteca\bin\Debug\net6.0\Biblioteca.pdb
+C:\workspace\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.AssemblyReference.cache
+C:\workspace\Biblioteca\obj\Debug\net6.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfoInputs.cache
+C:\workspace\Biblioteca\obj\Debug\net6.0\Biblioteca.AssemblyInfo.cs
+C:\workspace\Biblioteca\obj\Debug\net6.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\workspace\Biblioteca\obj\Debug\net6.0\Biblioteca.dll
+C:\workspace\Biblioteca\obj\Debug\net6.0\ref\Biblioteca.dll
+C:\workspace\Biblioteca\obj\Debug\net6.0\Biblioteca.pdb
+C:\workspace\Biblioteca\obj\Debug\net6.0\Biblioteca.genruntimeconfig.cache
